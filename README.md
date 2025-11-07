@@ -1,4 +1,3 @@
 # C++ development in Devcontainer
 
-<script src="https://gist.github.com/vafeen/f2cd631d97782645d0e89d0eb1c9df4b.js">
-</script>
+[Instruction](https://gist.github.com/vafeen/f2cd631d97782645d0e89d0eb1c9df4b)
